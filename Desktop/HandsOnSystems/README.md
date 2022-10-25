@@ -2,11 +2,11 @@
 
 
 Back-end :
-1 -cd Desktop/HandsOnSystems/Back-End 
+1 -cd Back-End 
 2-  mvn spring-boot:run
 
 Front-End :
-1- Desktop/HandsOnSystems/front-end
+1- front-end
 2- npm install axios 
 3- npm start 
 
